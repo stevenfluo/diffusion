@@ -410,6 +410,30 @@ For this part, I create hybrid images. First, I apply UNet to the image with two
     <p style="text-align: center;"><i>A hipster barista when close and an old man when far.</i></p>
 </p>
 
+
+# Part A. 3: Bells and Whistles 
+## Designing a Course Logo
+I created my own prompt embeddings (including 'a brown bear typing on a computer', 'a picture of an eye', 'a laptop computer', 'a brown bear', 'a photo of sather gate', 'a photo of uc berkeley', 'a photo of the campanile') and used these to create various hybrid images that are CS180-themed. 
+
+Try to figure out which prompts I used to create these!
+
+<p align="center">
+    <img src="./img/Unknown-154.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-155.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-156.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-157.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-158.png" alt="ad" width="18%"/>
+    <p style="text-align: center;"><i> CS180 course logos? Hybrid images designed with custom prompts. </i></p>
+</p>
+
+<p align="center">
+    <img src="./img/Unknown-154 copy.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-155 copy.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-156 copy.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-157 copy.png" alt="ad" width="18%"/>
+    <img src="./img/Unknown-158 copy.png" alt="ad" width="18%"/>
+</p>
+
 # **Part B: Training a Diffusion Model**
 
 # Overview
